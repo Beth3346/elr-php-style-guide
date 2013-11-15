@@ -1,4 +1,4 @@
-drm-html5-style-guide
+drm-php-style-guide
 =====================
 
-HTML5 Style Guide
+PHP Style Guide
