@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ELR PHP Style Guide
 
 Adapted from: [http://www.php-fig.org/](http://www.php-fig.org/)
@@ -463,3 +464,9 @@ Adapted from: [http://www.php-fig.org/](http://www.php-fig.org/)
 + Put a space before and after the concatenation operator, as it's small and disappears (or becomes a sentence period) too easily. For example use "a . b" and not "a.b".
 
 + And of course, comment as much as possible. Comments are bytes that are always appreciated for communication. Outside of internal comments within the body of functions/methods, PHPdoc style is the standard we prefer.
+=======
+drm-php-style-guide
+=====================
+
+PHP Style Guide
+>>>>>>> origin/master
